@@ -1,8 +1,25 @@
-# React + Vite
+# Registration Form with React & Bootstrap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a registration form built with React and styled using Bootstrap. It includes fields for first name, middle name, last name, email, password, phone number, gender, country selection, and services. The form also includes basic validation for required fields.
 
-Currently, two official plugins are available:
+### Features
+- Responsive design using Bootstrap.
+- Dynamic rendering of gender and country options from data files.
+- Password encryption using bcrypt.js.
+- Simple form submission handling with `useState` in React.
+  
+### Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Dependencies](#dependencies)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/react-bootstrap-form.git
+cd react-bootstrap-form
