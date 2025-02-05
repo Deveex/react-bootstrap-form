@@ -18,8 +18,11 @@ This is a registration form built with React and styled using Bootstrap. It incl
 ---
 
 ## Installation
-
+npm install
+npm run dev
 ### Clone the repository
 ```bash
 git clone https://github.com/your-username/react-bootstrap-form.git
 cd react-bootstrap-form
+
+## Usage
